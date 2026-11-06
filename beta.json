@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Application vide, essai du canal de mise à jour",
-  "pub_date": "2026-11-06T16:54:20+00:00",
+  "version": "0.2.0",
+  "notes": "Essai de mise à jour réelle",
+  "pub_date": "2026-11-06T17:32:01+00:00",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDA3R0pJK0dNWGhZdm5PZTdhbFNoL0FxQ1YzMW1PWE1YRkFKcWdVb3Z4VFR1WkpFejM5S1dqRGR6M3BjaEtzWTUrTExkUzQzNTRZNEgwZjU4MzBSazQxNTRQc3lpMFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg0MDYwCWZpbGU6YXNzaXN0YW50LXBjXzAuMS4wX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4xLjAKUFlhQzdUalREdmRaYkNzWDNvZjNTWE5EeXNJYzl3TWhjbWhaeDZYdGlyNFFRSjR3aWhYTjI3WFhiYklsN2JpNXYwcmtPVGtZQzNaUmlQUnJERGFsQ1E9PQo=",
-      "url": "https://github.com/kostya-fr/assistant-pc-releases/releases/download/v0.1.0/assistant-pc_0.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDA3R0pJK0dNWGpmOFV5bjlDNExSR0NyVVVOSlJjc0hTakJ4SUlaaDhGVXBqWnFoVmpxenBRV1ZHb0V2bFRuWU0vdTJSbFZXTFV4cDNjQW1YcTF4OVEySW1WRmdSeHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg2MzIxCWZpbGU6YXNzaXN0YW50LXBjXzAuMi4wX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4yLjAKQTN5UTNxYVA0eUFjQjVWbzlCQlFlRDlyYjM1QTJyK2piUEpHOEhHVU55ODVFbFRRNndjb2dvYzBua0ZDczd6emtRc1huQTM4N0pTNTBwM0dYUTN1Qnc9PQo=",
+      "url": "https://github.com/kostya-fr/assistant-pc-releases/releases/download/v0.2.0/assistant-pc_0.2.0_amd64.AppImage"
     }
   }
 }
